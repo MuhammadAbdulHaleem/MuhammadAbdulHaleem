@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![2](https://github.com/user-attachments/assets/918e4790-14de-48b5-b841-24a1116ed2d1)
 
 <!--Night Owl image-->
 <div>
