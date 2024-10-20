@@ -1,6 +1,7 @@
 <!--Banner-->
 ![2](https://github.com/user-attachments/assets/918e4790-14de-48b5-b841-24a1116ed2d1)
 
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -13,12 +14,19 @@
 <!--Start Intro-->               
 <p align="left">👨‍💻 Full Stack Web Developer passionate about creating dynamic and engaging web applications. With expertise in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, MySQL, and Git, I transform ideas into seamless digital experiences. Let’s bring your vision to life!</p>
 
+
 ◉ 🌐 Full stack web developer on a mission to create!
+
 ◉ 💻 Code is my canvas, and I’m painting the web one project at a time.
+
 ◉ 🚀 Always exploring new technologies to elevate my skills.
+
 ◉ 🎨 Design enthusiast who believes in the beauty of functionality.
+
 ◉ 🔍 Lifelong learner, because the web never stops evolving!
+
 ◉ 🤝 Collaboration fuels my creativity—let’s build something great together!
+
 ◉ 🌟 Passionate about turning ideas into impactful digital experiences.
 <!--End Intro-->
 
