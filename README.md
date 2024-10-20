@@ -39,7 +39,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://muhammadabdulhaleem.github.io/Digital-Trend">
-          <img ![Digital Trend Website](digital%20Trend%20Website.png)/>
+          <img src="digital Trend Website.png" alt="Digital Trend Website"/>
         </a>
       </p>
     </td>
