@@ -36,7 +36,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Digital Trend</strong></h3>
       <p align="center">
         <a href="https://muhammadabdulhaleem.github.io/Digital-Trend">
           <img src="digital Trend Website.png" alt="Digital Trend Website"/>
@@ -44,10 +44,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Cars Dealer</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?                                                                                    username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://muhammadabdulhaleem.github.io/Cars-Dealer">
+          <img src="cars_dealer_1.png" alt="Cars Dealer"/>
         </a>
       </p>
     </td>
