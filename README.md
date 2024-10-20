@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">👨‍💻 Full Stack Web Developer passionate about creating dynamic and engaging web applications. With expertise in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, MySQL, and Git, I transform ideas into seamless digital experiences. Let’s bring your vision to life!</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
