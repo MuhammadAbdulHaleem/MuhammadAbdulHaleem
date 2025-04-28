@@ -22,7 +22,7 @@
 
 ◉ 🎨 Design enthusiast who believes in the beauty of functionality.
 
-
+◉ 🔍 Lifelong learner, because the web never stops evolving!
 
 ◉ 🤝 Collaboration fuels my creativity—let’s build something great together!
 
