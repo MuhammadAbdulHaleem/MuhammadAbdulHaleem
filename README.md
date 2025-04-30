@@ -20,7 +20,7 @@
 
 ◉ 🚀 Always exploring new technologies to elevate my skills.
 
-◉ 🎨 Design enthusiast who believes in the beauty of functionality.
+
 
 ◉ 🔍 Lifelong learner, because the web never stops evolving!
 
