@@ -24,7 +24,7 @@
 
 ◉ 🔍 Lifelong learner, because the web never stops evolving!
 
-
+◉ 🤝 Collaboration fuels my creativity—let’s build something great together!
 
 ◉ 🌟 Passionate about turning ideas into impactful digital experiences.
 <!--End Intro-->
