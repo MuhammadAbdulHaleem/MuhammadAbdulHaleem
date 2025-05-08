@@ -16,7 +16,7 @@
 
 ◉ 🌐 Full stack web developer on a mission to create!
 
-◉ 💻 Code is my canvas, and I’m painting the web one project at a time.
+
 
 ◉ 🚀 Always exploring new technologies to elevate my skills.
 
