@@ -30,7 +30,7 @@
 <!--End Intro-->
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Latest Projects 📊</h2>
+<!-- <h2 align="center">📊 Latest Projects 📊</h2>
 
 <table width="100%">
   <tr>
@@ -52,7 +52,7 @@
     </td>
   </tr>
 </table>
-<br />
+<br /> --> 
 
 
 <!--Contact Section--> 
