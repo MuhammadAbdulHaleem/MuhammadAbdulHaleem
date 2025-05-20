@@ -18,7 +18,7 @@
 
 ◉ 💻 Code is my canvas, and I’m painting the web one project at a time.
 
-◉ 🚀 Always exploring new technologies to elevate my skills
+◉ 🚀 Always exploring new technologies to elevate my skills.
 
 ◉ 🎨 Design enthusiast who believes in the beauty of functionality.
 
