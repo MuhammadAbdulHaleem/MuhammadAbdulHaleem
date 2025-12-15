@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👨‍💻 Full Stack Web Developer passionate about creating dynamic and engaging web applications. With expertise in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, MySQL, and Git, I transform ideas into seamless digital experiences. Let’s bring your vision to life!</p>
+<!-- <p align="left">👨‍💻 Full Stack Web Developer passionate about creating dynamic and engaging web applications. With expertise in HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, MySQL, and Git, I transform ideas into seamless digital experiences. Let’s bring your vision to life!</p>
 
 
 
@@ -26,7 +26,7 @@
 
 ◉ 🤝 Collaboration fuels my creativity—let’s build something great together!
 
-◉ 🌟 Passionate about turning ideas into impactful digital experiences.
+◉ 🌟 Passionate about turning ideas into impactful digital experiences. -->
 <!--End Intro-->
 
 <!--Github stats Table--> 
